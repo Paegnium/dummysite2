@@ -1,0 +1,350 @@
+[
+  {
+    "id": 101,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "category": "Electronics",
+    "price": 549.99,
+    "rating": 3.47,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Henry Adams"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Elijah Cruz"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "William Lopez"
+      }
+    ],
+    "image": "assets/101.svg"
+  },
+  {
+    "id": 88,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "category": "Fashion",
+    "price": 149.99,
+    "rating": 4.77,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Elena Long"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Addison Wright"
+      },
+      {
+        "rating": 1,
+        "comment": "Waste of money!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Mason Wright"
+      }
+    ],
+    "image": "assets/88.svg"
+  },
+  {
+    "id": 174,
+    "title": "Prada Galleria Saffiano Leather Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+    "category": "Fashion",
+    "price": 599.99,
+    "rating": 2.71,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Would not buy again!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Caleb Perkins"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Carter Baker"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly recommended!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Lucas Ramirez"
+      }
+    ],
+    "image": "assets/174.svg"
+  },
+  {
+    "id": 78,
+    "title": "Apple MacBook Pro 14-inch",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "category": "Electronics",
+    "price": 1999.99,
+    "rating": 3.65,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Hazel Evans"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Christopher West"
+      },
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Aubrey Garcia"
+      }
+    ],
+    "image": "assets/78.svg"
+  },
+  {
+    "id": 7,
+    "title": "Chanel Coco Noir Eau de Parfum",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "Beauty",
+    "price": 129.99,
+    "rating": 4.26,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Ruby Andrews"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Leah Henderson"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Xavier Wright"
+      }
+    ],
+    "image": "assets/7.svg"
+  },
+  {
+    "id": 47,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "category": "Home & living",
+    "price": 49.99,
+    "rating": 3.55,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Benjamin Foster"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not recommend!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Sophia Jones"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Natalie Harris"
+      }
+    ],
+    "image": "assets/47.svg"
+  },
+  {
+    "id": 100,
+    "title": "Apple AirPods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "category": "Electronics",
+    "price": 129.99,
+    "rating": 4.15,
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Christopher West"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Emma Wilson"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Xavier Wright"
+      }
+    ],
+    "image": "assets/100.svg"
+  },
+  {
+    "id": 123,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    "category": "Electronics",
+    "price": 1099.99,
+    "rating": 4.12,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Christian Perez"
+      },
+      {
+        "rating": 3,
+        "comment": "Not worth the price!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Liam Gonzalez"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Tristan Scott"
+      }
+    ],
+    "image": "assets/123.svg"
+  },
+  {
+    "id": 90,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "category": "Fashion",
+    "price": 89.99,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Jackson Morales"
+      },
+      {
+        "rating": 1,
+        "comment": "Very disappointed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Sophia Jones"
+      },
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Logan Torres"
+      }
+    ],
+    "image": "assets/90.svg"
+  },
+  {
+    "id": 10,
+    "title": "Gucci Bloom Eau de Parfum",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "Beauty",
+    "price": 79.99,
+    "rating": 2.74,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "Very dissatisfied!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Cameron Perez"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Daniel Cook"
+      },
+      {
+        "rating": 4,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Addison Wright"
+      }
+    ],
+    "image": "assets/10.svg"
+  },
+  {
+    "id": 103,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "category": "Electronics",
+    "price": 99.99,
+    "rating": 4.62,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Max Russell"
+      },
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Isaac Lawrence"
+      },
+      {
+        "rating": 4,
+        "comment": "Very pleased!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Avery Carter"
+      }
+    ],
+    "image": "assets/103.svg"
+  },
+  {
+    "id": 173,
+    "title": "HESHE Leather Shoulder Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    "category": "Fashion",
+    "price": 129.99,
+    "rating": 4.92,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Hunter Gordon"
+      },
+      {
+        "rating": 4,
+        "comment": "Awesome product!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Mason Parker"
+      },
+      {
+        "rating": 4,
+        "comment": "Awesome product!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "William Gonzalez"
+      }
+    ],
+    "image": "assets/173.svg"
+  }
+]
