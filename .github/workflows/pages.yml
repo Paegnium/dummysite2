@@ -18,11 +18,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate and validate product pages
+        run: |
+          python3 scripts/build_products.py
+          python3 -m unittest discover -s tests
       - name: Prepare static website
         run: |
           mkdir _site
           cp index.html styles.css app.js products.json _site/
           cp -r assets _site/assets
+          cp -r products _site/products
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

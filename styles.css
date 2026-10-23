@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important}}
 @media(min-width:721px) and (max-width:900px){header{flex-wrap:wrap;padding:20px 0}.brand{margin-right:auto}.header-action{margin-left:10px}#search{order:4;flex-basis:100%;max-width:none;margin:10px 0 0}}
 @media(max-width:720px){.round-note{display:none}}
+.product-name{display:block}.product-page{padding-bottom:40px}.back-link{display:inline-block;margin:10px 0 24px}.seller-details{display:grid;grid-template-columns:auto 1fr;gap:8px 16px;font-size:12px}.seller-details dt{color:var(--muted)}.seller-details dd{margin:0;overflow-wrap:anywhere}.product-permalink,.back-link{text-decoration:underline;text-underline-offset:3px}.fixture-note{margin-top:25px;color:var(--muted);font-size:12px;line-height:1.7}.product-page h1{font-family:Manrope,Arial,sans-serif;font-size:28px}

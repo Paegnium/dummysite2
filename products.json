@@ -26,7 +26,31 @@
         "reviewerName": "William Lopez"
       }
     ],
-    "image": "assets/101.svg"
+    "image": "assets/101.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-tech",
+    "seller_name": "Tao Tech Studio",
+    "selling_since": "2020-03-15",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Would buy again!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/101.html"
   },
   {
     "id": 88,
@@ -55,7 +79,31 @@
         "reviewerName": "Mason Wright"
       }
     ],
-    "image": "assets/88.svg"
+    "image": "assets/88.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-style",
+    "seller_name": "Tao Style House",
+    "selling_since": "2019-06-01",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Highly impressed!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Waste of money!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/88.html"
   },
   {
     "id": 174,
@@ -84,7 +132,31 @@
         "reviewerName": "Lucas Ramirez"
       }
     ],
-    "image": "assets/174.svg"
+    "image": "assets/174.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-style",
+    "seller_name": "Tao Style House",
+    "selling_since": "2019-06-01",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Would not buy again!",
+        "rating": 2,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Great value for money!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Highly recommended!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.054Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/174.html"
   },
   {
     "id": 78,
@@ -113,7 +185,31 @@
         "reviewerName": "Aubrey Garcia"
       }
     ],
-    "image": "assets/78.svg"
+    "image": "assets/78.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-tech",
+    "seller_name": "Tao Tech Studio",
+    "selling_since": "2020-03-15",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very satisfied!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/78.html"
   },
   {
     "id": 7,
@@ -142,7 +238,31 @@
         "reviewerName": "Xavier Wright"
       }
     ],
-    "image": "assets/7.svg"
+    "image": "assets/7.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-beauty",
+    "seller_name": "Tao Beauty Edit",
+    "selling_since": "2020-09-20",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Highly impressed!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Awesome product!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/7.html"
   },
   {
     "id": 47,
@@ -171,7 +291,31 @@
         "reviewerName": "Natalie Harris"
       }
     ],
-    "image": "assets/47.svg"
+    "image": "assets/47.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-home",
+    "seller_name": "Tao Home Finds",
+    "selling_since": "2021-02-10",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Would not recommend!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Awesome product!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/47.html"
   },
   {
     "id": 100,
@@ -200,7 +344,31 @@
         "reviewerName": "Xavier Wright"
       }
     ],
-    "image": "assets/100.svg"
+    "image": "assets/100.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-tech",
+    "seller_name": "Tao Tech Studio",
+    "selling_since": "2020-03-15",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Would not buy again!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Great product!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Excellent quality!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/100.html"
   },
   {
     "id": 123,
@@ -229,7 +397,31 @@
         "reviewerName": "Tristan Scott"
       }
     ],
-    "image": "assets/123.svg"
+    "image": "assets/123.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-tech",
+    "seller_name": "Tao Tech Studio",
+    "selling_since": "2020-03-15",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Would buy again!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Not worth the price!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Very satisfied!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.054Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/123.html"
   },
   {
     "id": 90,
@@ -258,7 +450,31 @@
         "reviewerName": "Logan Torres"
       }
     ],
-    "image": "assets/90.svg"
+    "image": "assets/90.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-style",
+    "seller_name": "Tao Style House",
+    "selling_since": "2019-06-01",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Highly impressed!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very disappointed!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very pleased!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/90.html"
   },
   {
     "id": 10,
@@ -287,7 +503,31 @@
         "reviewerName": "Addison Wright"
       }
     ],
-    "image": "assets/10.svg"
+    "image": "assets/10.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-beauty",
+    "seller_name": "Tao Beauty Edit",
+    "selling_since": "2020-09-20",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Very dissatisfied!",
+        "rating": 1,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very happy with my purchase!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Highly impressed!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/10.html"
   },
   {
     "id": 103,
@@ -316,7 +556,31 @@
         "reviewerName": "Avery Carter"
       }
     ],
-    "image": "assets/103.svg"
+    "image": "assets/103.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-tech",
+    "seller_name": "Tao Tech Studio",
+    "selling_since": "2020-03-15",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Great product!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Would not buy again!",
+        "rating": 3,
+        "date": "2025-04-30T09:41:02.053Z"
+      },
+      {
+        "text": "Very pleased!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.053Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/103.html"
   },
   {
     "id": 173,
@@ -345,6 +609,30 @@
         "reviewerName": "William Gonzalez"
       }
     ],
-    "image": "assets/173.svg"
+    "image": "assets/173.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "tao-style",
+    "seller_name": "Tao Style House",
+    "selling_since": "2019-06-01",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "Excellent quality!",
+        "rating": 5,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Awesome product!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.054Z"
+      },
+      {
+        "text": "Awesome product!",
+        "rating": 4,
+        "date": "2025-04-30T09:41:02.054Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/173.html"
   }
 ]
