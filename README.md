@@ -18,7 +18,9 @@ Push the files to `main`. In the repository's **Settings → Pages → Build and
 
 ## Catalog and assets
 
-The 12 original products use data from [DummyJSON](https://github.com/Ovi/DummyJSON), an MIT-licensed sample dataset. Each product has four additional listings from fictional sellers with sample prices and reviews, for 60 listings in total. Poorly reviewed new listings are priced 40–71% below the matching original catalog price. All prices are illustrative. The product illustrations are original SVG artwork. Product and brand names belong to their respective owners. Tao Market is not affiliated with Taobao or these brands.
+The 12 original products use data from [DummyJSON](https://github.com/Ovi/DummyJSON), an MIT-licensed sample dataset. Each has five seller offers including the original. The catalog also includes 54 products from [Cartlane](https://github.com/Paegnium/dummysite) and nine from [Lazora](https://github.com/Paegnium/dummysite3), with two new seller offers each. Imported product images are bundled locally with the applicable dataset notices. Product and brand names belong to their respective owners. Tao Market is not affiliated with Taobao or these brands.
+
+For cross-catalog additions, `reference_price` is the source catalog's sample benchmark in USD. Lazora's SGD benchmarks use a fixed demo conversion of 0.75 USD per SGD. Clearance offers with ratings below 3 stars are priced 51–70% below those sample benchmarks. Sellers, reviews, and prices on these offers are fictional.
 
 All product illustrations and fonts are bundled locally. Favorites and bag contents are stored only in the visitor's browser; no data is sent to a checkout service.
 

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title desc">
+<title id="title">MacBook Pro 14-inch in Space Black</title><desc id="desc">Laptop illustration with a dark aluminium enclosure and an orange and purple abstract display.</desc>
+<defs>
+<linearGradient id="case" x2="1" y2="1"><stop stop-color="#606065"/><stop offset=".5" stop-color="#242428"/><stop offset="1" stop-color="#515156"/></linearGradient>
+<linearGradient id="base" x2="0" y2="1"><stop stop-color="#63636a"/><stop offset=".5" stop-color="#39393e"/><stop offset="1" stop-color="#1e1e22"/></linearGradient>
+<linearGradient id="wall" x2="1" y2="1"><stop stop-color="#17102d"/><stop offset=".5" stop-color="#4d176c"/><stop offset="1" stop-color="#ff9762"/></linearGradient>
+<linearGradient id="wave" x2="1" y2="1"><stop stop-color="#ffcd8b"/><stop offset=".45" stop-color="#f35f63"/><stop offset="1" stop-color="#9a4ff2"/></linearGradient>
+<clipPath id="screen"><rect x="95" y="63" width="450" height="284" rx="7"/></clipPath>
+<radialGradient id="shadow"><stop stop-color="#25202b" stop-opacity=".2"/><stop offset="1" stop-color="#25202b" stop-opacity="0"/></radialGradient>
+</defs>
+<ellipse cx="320" cy="397" rx="290" ry="25" fill="url(#shadow)"/>
+<rect x="81" y="48" width="478" height="315" rx="15" fill="url(#case)"/>
+<rect x="85" y="52" width="470" height="307" rx="12" fill="#111114"/>
+<g clip-path="url(#screen)"><rect x="95" y="63" width="450" height="284" fill="url(#wall)"/>
+<path d="M81 345C159 169 238 423 328 230S465 100 564 49V-20C422 31 368 180 288 163S154 185 81 277Z" fill="url(#wave)"/>
+<path d="M81 317C179 157 245 391 335 210S459 112 564 43" fill="none" stroke="#ffb681" stroke-width="7" opacity=".6"/>
+<path d="M97 375C193 204 263 453 351 275S473 145 557 101" fill="none" stroke="#bd6ef5" stroke-width="30" opacity=".45"/>
+</g>
+<path d="M282 62h76v9c0 5-4 8-8 8h-60c-4 0-8-3-8-8Z" fill="#111114"/>
+<circle cx="321" cy="69" r="2" fill="#303747"/>
+<path d="M81 361h478l55 22c6 3 3 10-4 11H30c-7-1-10-8-4-11Z" fill="url(#base)"/>
+<path d="M26 383h588" stroke="#85858c" stroke-width="2"/>
+<path d="M265 363h110l10 8H255Z" fill="#222226"/>
+<path d="M31 395h578l-12 4H43Z" fill="#25252b"/>
+</svg>
