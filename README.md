@@ -18,7 +18,7 @@ Push the files to `main`. In the repository's **Settings → Pages → Build and
 
 ## Catalog and assets
 
-Product names, descriptions, prices, rating values and review fixtures are sourced from [DummyJSON](https://github.com/Ovi/DummyJSON), an MIT-licensed sample dataset. Reviews are illustrative dataset entries, not independently verified customer feedback; prices are sample catalog prices, not current offers. The product illustrations are original SVG artwork, representative rather than official product photography. Product and brand names belong to their respective owners; Tao Market is not affiliated with Taobao or these brands.
+The 12 original products use data from [DummyJSON](https://github.com/Ovi/DummyJSON), an MIT-licensed sample dataset. Each product has four additional listings from fictional sellers with sample prices and reviews, for 60 listings in total. Poorly reviewed new listings are priced 40–71% below the matching original catalog price. All prices are illustrative. The product illustrations are original SVG artwork. Product and brand names belong to their respective owners. Tao Market is not affiliated with Taobao or these brands.
 
 All product illustrations and fonts are bundled locally. Favorites and bag contents are stored only in the visitor's browser; no data is sent to a checkout service.
 
@@ -30,8 +30,8 @@ Every product includes `source_platform`, `title`, `price`, `currency`, `seller_
 storefront as `Tao Market`; DummyJSON is the upstream fixture source. Prices use
 the ISO currency code `USD`. Selling dates use `YYYY-MM-DD`; review dates use ISO
 8601 timestamps. Seller identities and selling dates are fictional fixtures,
-not actual merchants. Product ratings retain the upstream dataset values and
-are not recomputed from its small sample of reviews. `review_count` is the number
+not actual merchants. Original listings retain their upstream ratings. Each new
+listing's rating is the average of its reviews. `review_count` is the number
 of review entries available here. The original `reviews` array remains for
 compatibility with the storefront.
 

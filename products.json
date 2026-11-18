@@ -634,5 +634,3341 @@
       }
     ],
     "product_url": "https://paegnium.github.io/dummysite2/products/173.html"
+  },
+  {
+    "id": 1001,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style. Boxed stock with protective packaging.",
+    "category": "Electronics",
+    "price": 566.49,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The ear cushions were spotless and noise cancellation worked on the train.",
+        "date": "2026-11-01T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-21T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-10-10T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/101.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The ear cushions were spotless and noise cancellation worked on the train.",
+        "rating": 5,
+        "date": "2026-11-01T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-21T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-10-10T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1001.html"
+  },
+  {
+    "id": 1002,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style. Standard stock with packaging condition that may vary.",
+    "category": "Electronics",
+    "price": 489.49,
+    "rating": 3.83,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good sound on calls, though the case had a small scuff.",
+        "date": "2026-10-31T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-20T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-10-09T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-09-28T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-09-17T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-09-06T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/101.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "Good sound on calls, though the case had a small scuff.",
+        "rating": 4,
+        "date": "2026-10-31T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-20T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-10-09T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-09-28T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-09-17T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-09-06T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1002.html"
+  },
+  {
+    "id": 1003,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style. Outlet stock with possible signs of handling.",
+    "category": "Electronics",
+    "price": 296.99,
+    "rating": 2.0,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The headband was stretched and the right earcup rattled.",
+        "date": "2026-10-30T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-19T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-10-08T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-09-27T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-09-16T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/101.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The headband was stretched and the right earcup rattled.",
+        "rating": 2,
+        "date": "2026-10-30T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-19T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-10-08T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-09-27T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-09-16T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1003.html"
+  },
+  {
+    "id": 1004,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style. Clearance stock with visible wear or damaged packaging.",
+    "category": "Electronics",
+    "price": 209.0,
+    "rating": 1.5,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The headphones lost their Bluetooth connection every few minutes.",
+        "date": "2026-10-29T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-18T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-10-07T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-09-26T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/101.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The headphones lost their Bluetooth connection every few minutes.",
+        "rating": 1,
+        "date": "2026-10-29T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-18T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-10-07T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-09-26T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1004.html"
+  },
+  {
+    "id": 1005,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes. Boxed stock with protective packaging.",
+    "category": "Fashion",
+    "price": 164.99,
+    "rating": 4.75,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The stitching was clean and the shoes matched the photos.",
+        "date": "2026-10-29T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-18T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-10-07T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-09-26T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/88.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The stitching was clean and the shoes matched the photos.",
+        "rating": 5,
+        "date": "2026-10-29T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-18T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-10-07T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-09-26T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1005.html"
+  },
+  {
+    "id": 1006,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes. Standard stock with packaging condition that may vary.",
+    "category": "Fashion",
+    "price": 143.99,
+    "rating": 4.33,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "They fit true to size, but the box arrived dented.",
+        "date": "2026-10-28T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-17T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-10-06T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/88.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "They fit true to size, but the box arrived dented.",
+        "rating": 4,
+        "date": "2026-10-28T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-17T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-10-06T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1006.html"
+  },
+  {
+    "id": 1007,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes. Outlet stock with possible signs of handling.",
+    "category": "Fashion",
+    "price": 72.0,
+    "rating": 2.33,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The insoles showed wear that the photos didn't capture.",
+        "date": "2026-10-27T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-16T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-10-05T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-09-24T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-09-13T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-02T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/88.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The insoles showed wear that the photos didn't capture.",
+        "rating": 2,
+        "date": "2026-10-27T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-16T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-10-05T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-09-24T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-09-13T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-02T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1007.html"
+  },
+  {
+    "id": 1008,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes. Clearance stock with visible wear or damaged packaging.",
+    "category": "Fashion",
+    "price": 45.0,
+    "rating": 1.6,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "One sole started lifting after a short walk.",
+        "date": "2026-10-26T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-15T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-10-04T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-09-23T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-09-12T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/88.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "One sole started lifting after a short walk.",
+        "rating": 1,
+        "date": "2026-10-26T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-15T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-10-04T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-09-23T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-09-12T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1008.html"
+  },
+  {
+    "id": 1009,
+    "title": "Prada Galleria Saffiano Leather Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts. Boxed stock with protective packaging.",
+    "category": "Fashion",
+    "price": 641.99,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The zipper ran smoothly and the bag came with its dust cover.",
+        "date": "2026-10-26T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-15T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-10-04T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-09-23T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-12T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/174.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The zipper ran smoothly and the bag came with its dust cover.",
+        "rating": 5,
+        "date": "2026-10-26T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-15T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-10-04T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-09-23T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-12T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1009.html"
+  },
+  {
+    "id": 1010,
+    "title": "Prada Galleria Saffiano Leather Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts. Standard stock with packaging condition that may vary.",
+    "category": "Fashion",
+    "price": 533.99,
+    "rating": 3.75,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The leather looked good, though the strap had a crease.",
+        "date": "2026-10-25T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-14T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-10-03T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-09-22T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/174.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The leather looked good, though the strap had a crease.",
+        "rating": 4,
+        "date": "2026-10-25T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-14T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-10-03T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-09-22T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1010.html"
+  },
+  {
+    "id": 1011,
+    "title": "Prada Galleria Saffiano Leather Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts. Outlet stock with possible signs of handling.",
+    "category": "Fashion",
+    "price": 329.99,
+    "rating": 2.0,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The lining had marks and one corner was worn.",
+        "date": "2026-10-24T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-13T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-10-02T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/174.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The lining had marks and one corner was worn.",
+        "rating": 2,
+        "date": "2026-10-24T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-13T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-10-02T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1011.html"
+  },
+  {
+    "id": 1012,
+    "title": "Prada Galleria Saffiano Leather Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts. Clearance stock with visible wear or damaged packaging.",
+    "category": "Fashion",
+    "price": 222.0,
+    "rating": 1.67,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "A clasp came loose the first time I loaded the bag.",
+        "date": "2026-10-23T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-12T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-10-01T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-09-20T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-09T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-08-29T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/174.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "A clasp came loose the first time I loaded the bag.",
+        "rating": 1,
+        "date": "2026-10-23T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-12T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-10-01T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-09-20T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-09T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-08-29T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1012.html"
+  },
+  {
+    "id": 1013,
+    "title": "Apple MacBook Pro 14-inch",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display. Boxed stock with protective packaging.",
+    "category": "Electronics",
+    "price": 2079.99,
+    "rating": 4.67,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The battery lasted through my workday and the screen had no marks.",
+        "date": "2026-10-23T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-12T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-10-01T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-20T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-09-09T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-08-29T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/78.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The battery lasted through my workday and the screen had no marks.",
+        "rating": 5,
+        "date": "2026-10-23T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-12T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-10-01T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-20T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-09-09T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-08-29T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1013.html"
+  },
+  {
+    "id": 1014,
+    "title": "Apple MacBook Pro 14-inch",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display. Standard stock with packaging condition that may vary.",
+    "category": "Electronics",
+    "price": 1919.99,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "It handled editing well, but the charger was scratched.",
+        "date": "2026-10-22T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-11T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-09-30T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-19T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-09-08T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/78.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "It handled editing well, but the charger was scratched.",
+        "rating": 4,
+        "date": "2026-10-22T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-11T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-09-30T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-19T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-09-08T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1014.html"
+  },
+  {
+    "id": 1015,
+    "title": "Apple MacBook Pro 14-inch",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display. Outlet stock with possible signs of handling.",
+    "category": "Electronics",
+    "price": 980.0,
+    "rating": 2.25,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The listing understated the battery wear.",
+        "date": "2026-10-21T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-10T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-09-29T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-18T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/78.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The listing understated the battery wear.",
+        "rating": 2,
+        "date": "2026-10-21T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-10T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-09-29T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-18T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1015.html"
+  },
+  {
+    "id": 1016,
+    "title": "Apple MacBook Pro 14-inch",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display. Clearance stock with visible wear or damaged packaging.",
+    "category": "Electronics",
+    "price": 580.0,
+    "rating": 1.67,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The screen flickered whenever I adjusted the lid.",
+        "date": "2026-10-20T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-09T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-09-28T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/78.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The screen flickered whenever I adjusted the lid.",
+        "rating": 1,
+        "date": "2026-10-20T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-09T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-09-28T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1016.html"
+  },
+  {
+    "id": 1017,
+    "title": "Chanel Coco Noir Eau de Parfum",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions. Boxed stock with protective packaging.",
+    "category": "Beauty",
+    "price": 144.29,
+    "rating": 5.0,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The bottle was sealed and the scent lasted into the evening.",
+        "date": "2026-10-20T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-09T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-28T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/7.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The bottle was sealed and the scent lasted into the evening.",
+        "rating": 5,
+        "date": "2026-10-20T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-09T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-28T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1017.html"
+  },
+  {
+    "id": 1018,
+    "title": "Chanel Coco Noir Eau de Parfum",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions. Standard stock with packaging condition that may vary.",
+    "category": "Beauty",
+    "price": 115.69,
+    "rating": 3.83,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The scent was as expected, but the outer carton was creased.",
+        "date": "2026-10-19T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-08T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-27T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-09-16T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-09-05T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-08-25T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/7.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The scent was as expected, but the outer carton was creased.",
+        "rating": 4,
+        "date": "2026-10-19T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-08T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-27T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-09-16T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-09-05T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-08-25T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1018.html"
+  },
+  {
+    "id": 1019,
+    "title": "Chanel Coco Noir Eau de Parfum",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions. Outlet stock with possible signs of handling.",
+    "category": "Beauty",
+    "price": 72.79,
+    "rating": 2.0,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The cap fit loosely and the box was already open.",
+        "date": "2026-10-18T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-07T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-26T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-09-15T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-09-04T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/7.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The cap fit loosely and the box was already open.",
+        "rating": 2,
+        "date": "2026-10-18T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-07T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-26T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-09-15T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-09-04T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1019.html"
+  },
+  {
+    "id": 1020,
+    "title": "Chanel Coco Noir Eau de Parfum",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions. Clearance stock with visible wear or damaged packaging.",
+    "category": "Beauty",
+    "price": 46.8,
+    "rating": 1.5,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The atomizer leaked into the carton in transit.",
+        "date": "2026-10-17T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-06T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-25T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-09-14T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/7.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The atomizer leaked into the carton in transit.",
+        "rating": 1,
+        "date": "2026-10-17T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-06T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-25T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-09-14T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1020.html"
+  },
+  {
+    "id": 1021,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere. Boxed stock with protective packaging.",
+    "category": "Home & living",
+    "price": 53.99,
+    "rating": 4.75,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The shade was straight and the lamp felt stable on my nightstand.",
+        "date": "2026-10-17T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-06T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-25T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-09-14T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/47.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The shade was straight and the lamp felt stable on my nightstand.",
+        "rating": 5,
+        "date": "2026-10-17T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-06T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-25T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-09-14T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1021.html"
+  },
+  {
+    "id": 1022,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere. Standard stock with packaging condition that may vary.",
+    "category": "Home & living",
+    "price": 47.99,
+    "rating": 3.67,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The light is warm and pleasant, though the cord is short.",
+        "date": "2026-10-16T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-05T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-24T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/47.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The light is warm and pleasant, though the cord is short.",
+        "rating": 4,
+        "date": "2026-10-16T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-05T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-24T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1022.html"
+  },
+  {
+    "id": 1023,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere. Outlet stock with possible signs of handling.",
+    "category": "Home & living",
+    "price": 25.0,
+    "rating": 2.33,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The shade sat crooked even after I tightened the fitting.",
+        "date": "2026-10-15T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-04T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-23T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-09-12T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-09-01T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-08-21T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/47.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The shade sat crooked even after I tightened the fitting.",
+        "rating": 2,
+        "date": "2026-10-15T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-04T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-23T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-09-12T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-09-01T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-08-21T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1023.html"
+  },
+  {
+    "id": 1024,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere. Clearance stock with visible wear or damaged packaging.",
+    "category": "Home & living",
+    "price": 21.5,
+    "rating": 1.4,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The switch stopped working on the second day.",
+        "date": "2026-10-14T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-10-03T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-22T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-09-11T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-08-31T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/47.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The switch stopped working on the second day.",
+        "rating": 1,
+        "date": "2026-10-14T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-10-03T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-22T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-09-11T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-08-31T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1024.html"
+  },
+  {
+    "id": 1025,
+    "title": "Apple AirPods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening. Boxed stock with protective packaging.",
+    "category": "Electronics",
+    "price": 136.49,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Both earbuds charged evenly and paired on the first try.",
+        "date": "2026-10-14T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-10-03T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-09-22T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-09-11T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-08-31T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/100.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "Both earbuds charged evenly and paired on the first try.",
+        "rating": 5,
+        "date": "2026-10-14T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-10-03T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-09-22T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-09-11T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-08-31T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1025.html"
+  },
+  {
+    "id": 1026,
+    "title": "Apple AirPods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening. Standard stock with packaging condition that may vary.",
+    "category": "Electronics",
+    "price": 115.69,
+    "rating": 4.25,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Pairing was quick, though the case showed light scratches.",
+        "date": "2026-10-13T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-10-02T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-09-21T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-09-10T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/100.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "Pairing was quick, though the case showed light scratches.",
+        "rating": 4,
+        "date": "2026-10-13T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-10-02T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-09-21T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-09-10T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1026.html"
+  },
+  {
+    "id": 1027,
+    "title": "Apple AirPods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening. Outlet stock with possible signs of handling.",
+    "category": "Electronics",
+    "price": 74.09,
+    "rating": 2.33,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The left earbud ran out of charge much earlier than the right.",
+        "date": "2026-10-12T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-10-01T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-09-20T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/100.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The left earbud ran out of charge much earlier than the right.",
+        "rating": 2,
+        "date": "2026-10-12T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-10-01T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-09-20T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1027.html"
+  },
+  {
+    "id": 1028,
+    "title": "Apple AirPods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening. Clearance stock with visible wear or damaged packaging.",
+    "category": "Electronics",
+    "price": 45.5,
+    "rating": 1.67,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The charging case wouldn't recognize one of the earbuds.",
+        "date": "2026-10-11T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-30T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-09-19T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-09-08T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-08-28T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-08-17T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/100.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The charging case wouldn't recognize one of the earbuds.",
+        "rating": 1,
+        "date": "2026-10-11T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-30T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-09-19T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-09-08T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-08-28T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-08-17T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1028.html"
+  },
+  {
+    "id": 1029,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology. Boxed stock with protective packaging.",
+    "category": "Electronics",
+    "price": 1231.99,
+    "rating": 4.67,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The display was clean and all three rear cameras worked.",
+        "date": "2026-10-11T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-09-30T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-09-19T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-09-08T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-08-28T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-08-17T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/123.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The display was clean and all three rear cameras worked.",
+        "rating": 5,
+        "date": "2026-10-11T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-09-30T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-09-19T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-09-08T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-08-28T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-08-17T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1029.html"
+  },
+  {
+    "id": 1030,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology. Standard stock with packaging condition that may vary.",
+    "category": "Electronics",
+    "price": 1055.99,
+    "rating": 3.6,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The cameras were sharp, but battery health was lower than I expected.",
+        "date": "2026-10-10T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-09-29T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-09-18T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-09-07T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-08-27T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/123.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The cameras were sharp, but battery health was lower than I expected.",
+        "rating": 4,
+        "date": "2026-10-10T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-09-29T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-09-18T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-09-07T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-08-27T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1030.html"
+  },
+  {
+    "id": 1031,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology. Outlet stock with possible signs of handling.",
+    "category": "Electronics",
+    "price": 560.99,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The volume buttons stuck and the frame was more worn than pictured.",
+        "date": "2026-10-09T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-09-28T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-09-17T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-09-06T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/123.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The volume buttons stuck and the frame was more worn than pictured.",
+        "rating": 2,
+        "date": "2026-10-09T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-09-28T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-09-17T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-09-06T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1031.html"
+  },
+  {
+    "id": 1032,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology. Clearance stock with visible wear or damaged packaging.",
+    "category": "Electronics",
+    "price": 462.0,
+    "rating": 1.0,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The phone restarted twice while I was setting it up.",
+        "date": "2026-10-08T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-27T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-09-16T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/123.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The phone restarted twice while I was setting it up.",
+        "rating": 1,
+        "date": "2026-10-08T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-27T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-09-16T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1032.html"
+  },
+  {
+    "id": 1033,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use. Boxed stock with protective packaging.",
+    "category": "Fashion",
+    "price": 98.09,
+    "rating": 4.67,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The trainers were comfortable on a long walk and the colors matched.",
+        "date": "2026-10-08T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-09-27T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-09-16T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/90.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The trainers were comfortable on a long walk and the colors matched.",
+        "rating": 5,
+        "date": "2026-10-08T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-09-27T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-09-16T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1033.html"
+  },
+  {
+    "id": 1034,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use. Standard stock with packaging condition that may vary.",
+    "category": "Fashion",
+    "price": 80.09,
+    "rating": 3.83,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The shoes were comfortable, but the laces felt flimsy.",
+        "date": "2026-10-07T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-09-26T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-09-15T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-04T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-08-24T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-08-13T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/90.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The shoes were comfortable, but the laces felt flimsy.",
+        "rating": 4,
+        "date": "2026-10-07T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-09-26T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-09-15T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-04T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-08-24T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-08-13T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1034.html"
+  },
+  {
+    "id": 1035,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use. Outlet stock with possible signs of handling.",
+    "category": "Fashion",
+    "price": 52.19,
+    "rating": 2.4,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The heel lining was already rubbed through on one shoe.",
+        "date": "2026-10-06T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-09-25T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-09-14T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-03T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-08-23T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/90.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The heel lining was already rubbed through on one shoe.",
+        "rating": 2,
+        "date": "2026-10-06T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-09-25T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-09-14T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-03T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-08-23T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1035.html"
+  },
+  {
+    "id": 1036,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use. Clearance stock with visible wear or damaged packaging.",
+    "category": "Fashion",
+    "price": 30.6,
+    "rating": 1.75,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The seam split near the toe after two wears.",
+        "date": "2026-10-05T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-24T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-09-13T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-02T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/90.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The seam split near the toe after two wears.",
+        "rating": 1,
+        "date": "2026-10-05T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-24T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-09-13T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-02T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1036.html"
+  },
+  {
+    "id": 1037,
+    "title": "Gucci Bloom Eau de Parfum",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent. Boxed stock with protective packaging.",
+    "category": "Beauty",
+    "price": 84.79,
+    "rating": 4.75,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The floral scent was fresh and the bottle was well protected.",
+        "date": "2026-10-05T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-09-24T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-13T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-09-02T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/10.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The floral scent was fresh and the bottle was well protected.",
+        "rating": 5,
+        "date": "2026-10-05T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-09-24T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-13T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-09-02T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1037.html"
+  },
+  {
+    "id": 1038,
+    "title": "Gucci Bloom Eau de Parfum",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent. Standard stock with packaging condition that may vary.",
+    "category": "Beauty",
+    "price": 76.79,
+    "rating": 3.67,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "I liked the scent, though the box was too worn to give as a gift.",
+        "date": "2026-10-04T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-09-23T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-12T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/10.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "I liked the scent, though the box was too worn to give as a gift.",
+        "rating": 4,
+        "date": "2026-10-04T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-09-23T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-12T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1038.html"
+  },
+  {
+    "id": 1039,
+    "title": "Gucci Bloom Eau de Parfum",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent. Outlet stock with possible signs of handling.",
+    "category": "Beauty",
+    "price": 41.59,
+    "rating": 2.33,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The sprayer gave an uneven mist and the label was peeling.",
+        "date": "2026-10-03T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-09-22T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-11T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-08-31T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-08-20T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 4,
+        "comment": "Mine works well enough and the lower price made it worthwhile.",
+        "date": "2026-08-09T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/10.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The sprayer gave an uneven mist and the label was peeling.",
+        "rating": 2,
+        "date": "2026-10-03T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-09-22T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-11T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-08-31T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-08-20T10:00:00Z"
+      },
+      {
+        "text": "Mine works well enough and the lower price made it worthwhile.",
+        "rating": 4,
+        "date": "2026-08-09T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1039.html"
+  },
+  {
+    "id": 1040,
+    "title": "Gucci Bloom Eau de Parfum",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent. Clearance stock with visible wear or damaged packaging.",
+    "category": "Beauty",
+    "price": 32.8,
+    "rating": 1.4,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The sprayer jammed and the bottle had leaked.",
+        "date": "2026-10-02T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-21T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-10T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-08-30T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-08-19T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/10.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "The sprayer jammed and the bottle had leaked.",
+        "rating": 1,
+        "date": "2026-10-02T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-21T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-10T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-08-30T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-08-19T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1040.html"
+  },
+  {
+    "id": 1041,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience. Boxed stock with protective packaging.",
+    "category": "Electronics",
+    "price": 102.99,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Setup was quick and the speaker filled my kitchen with sound.",
+        "date": "2026-10-02T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-09-21T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-09-10T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-08-30T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-08-19T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      }
+    ],
+    "image": "assets/103.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "harbor-select",
+    "seller_name": "Harbor Select",
+    "selling_since": "2018-04-12",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "Setup was quick and the speaker filled my kitchen with sound.",
+        "rating": 5,
+        "date": "2026-10-02T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-09-21T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-09-10T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-08-30T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-08-19T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1041.html"
+  },
+  {
+    "id": 1042,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience. Standard stock with packaging condition that may vary.",
+    "category": "Electronics",
+    "price": 88.99,
+    "rating": 4.0,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "The sound was clear, but the cable showed some wear.",
+        "date": "2026-10-01T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-09-20T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      },
+      {
+        "rating": 3,
+        "comment": "It works for me, but the packaging could have been better.",
+        "date": "2026-09-09T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-08-29T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      }
+    ],
+    "image": "assets/103.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "maple-mercantile",
+    "seller_name": "Maple Mercantile",
+    "selling_since": "2019-07-22",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The sound was clear, but the cable showed some wear.",
+        "rating": 4,
+        "date": "2026-10-01T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-09-20T10:00:00Z"
+      },
+      {
+        "text": "It works for me, but the packaging could have been better.",
+        "rating": 3,
+        "date": "2026-09-09T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-08-29T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1042.html"
+  },
+  {
+    "id": 1043,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience. Outlet stock with possible signs of handling.",
+    "category": "Electronics",
+    "price": 58.99,
+    "rating": 1.67,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The speaker dropped off Wi-Fi more than once a day.",
+        "date": "2026-09-30T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-09-19T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 1,
+        "comment": "I sent two messages about the problem and got no reply.",
+        "date": "2026-09-08T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/103.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "second-shelf",
+    "seller_name": "Second Shelf",
+    "selling_since": "2022-06-14",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The speaker dropped off Wi-Fi more than once a day.",
+        "rating": 2,
+        "date": "2026-09-30T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-09-19T10:00:00Z"
+      },
+      {
+        "text": "I sent two messages about the problem and got no reply.",
+        "rating": 1,
+        "date": "2026-09-08T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1043.html"
+  },
+  {
+    "id": 1044,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience. Clearance stock with visible wear or damaged packaging.",
+    "category": "Electronics",
+    "price": 33.0,
+    "rating": 1.67,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "It kept rebooting during setup and never finished pairing.",
+        "date": "2026-09-29T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-18T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 2,
+        "comment": "The seller replied eventually, but couldn't offer a replacement.",
+        "date": "2026-09-07T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-08-27T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 1,
+        "comment": "I couldn't get any help after reporting the issue.",
+        "date": "2026-08-16T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "I made do with it because it was so cheap.",
+        "date": "2026-08-05T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/103.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "last-call-depot",
+    "seller_name": "Last Call Depot",
+    "selling_since": "2022-10-06",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "It kept rebooting during setup and never finished pairing.",
+        "rating": 1,
+        "date": "2026-09-29T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-18T10:00:00Z"
+      },
+      {
+        "text": "The seller replied eventually, but couldn't offer a replacement.",
+        "rating": 2,
+        "date": "2026-09-07T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-08-27T10:00:00Z"
+      },
+      {
+        "text": "I couldn't get any help after reporting the issue.",
+        "rating": 1,
+        "date": "2026-08-16T10:00:00Z"
+      },
+      {
+        "text": "I made do with it because it was so cheap.",
+        "rating": 3,
+        "date": "2026-08-05T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1044.html"
+  },
+  {
+    "id": 1045,
+    "title": "HESHE Leather Shoulder Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory. Boxed stock with protective packaging.",
+    "category": "Fashion",
+    "price": 142.99,
+    "rating": 4.67,
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The pockets were useful and the hardware looked polished.",
+        "date": "2026-09-29T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 5,
+        "comment": "The seller answered my question before I ordered.",
+        "date": "2026-09-18T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with it, although delivery took an extra day.",
+        "date": "2026-09-07T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 5,
+        "comment": "The photos made it easy to know what I was getting.",
+        "date": "2026-08-27T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      },
+      {
+        "rating": 4,
+        "comment": "I'd buy here again. Tracking was slow to update.",
+        "date": "2026-08-16T10:00:00Z",
+        "reviewerName": "Alex Ong"
+      },
+      {
+        "rating": 5,
+        "comment": "Everything was packed securely and arrived as described.",
+        "date": "2026-08-05T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      }
+    ],
+    "image": "assets/173.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "cedar-avenue",
+    "seller_name": "Cedar Avenue",
+    "selling_since": "2020-02-03",
+    "review_count": 6,
+    "review": [
+      {
+        "text": "The pockets were useful and the hardware looked polished.",
+        "rating": 5,
+        "date": "2026-09-29T10:00:00Z"
+      },
+      {
+        "text": "The seller answered my question before I ordered.",
+        "rating": 5,
+        "date": "2026-09-18T10:00:00Z"
+      },
+      {
+        "text": "Very happy with it, although delivery took an extra day.",
+        "rating": 4,
+        "date": "2026-09-07T10:00:00Z"
+      },
+      {
+        "text": "The photos made it easy to know what I was getting.",
+        "rating": 5,
+        "date": "2026-08-27T10:00:00Z"
+      },
+      {
+        "text": "I'd buy here again. Tracking was slow to update.",
+        "rating": 4,
+        "date": "2026-08-16T10:00:00Z"
+      },
+      {
+        "text": "Everything was packed securely and arrived as described.",
+        "rating": 5,
+        "date": "2026-08-05T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1045.html"
+  },
+  {
+    "id": 1046,
+    "title": "HESHE Leather Shoulder Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory. Standard stock with packaging condition that may vary.",
+    "category": "Fashion",
+    "price": 124.79,
+    "rating": 4.0,
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "It's a handy everyday size, though the strap is a little stiff.",
+        "date": "2026-09-28T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      },
+      {
+        "rating": 4,
+        "comment": "A fair price and the seller kept me updated.",
+        "date": "2026-09-17T10:00:00Z",
+        "reviewerName": "Reese Chua"
+      },
+      {
+        "rating": 5,
+        "comment": "Arrived on time and was just what I needed.",
+        "date": "2026-09-06T10:00:00Z",
+        "reviewerName": "Remy Shah"
+      },
+      {
+        "rating": 4,
+        "comment": "The seller replied quickly when I asked about delivery.",
+        "date": "2026-08-26T10:00:00Z",
+        "reviewerName": "Jordan Tan"
+      },
+      {
+        "rating": 3,
+        "comment": "The purchase was fine, but the listing could have had clearer photos.",
+        "date": "2026-08-15T10:00:00Z",
+        "reviewerName": "Riley Chen"
+      }
+    ],
+    "image": "assets/173.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "northline-goods",
+    "seller_name": "Northline Goods",
+    "selling_since": "2021-11-09",
+    "review_count": 5,
+    "review": [
+      {
+        "text": "It's a handy everyday size, though the strap is a little stiff.",
+        "rating": 4,
+        "date": "2026-09-28T10:00:00Z"
+      },
+      {
+        "text": "A fair price and the seller kept me updated.",
+        "rating": 4,
+        "date": "2026-09-17T10:00:00Z"
+      },
+      {
+        "text": "Arrived on time and was just what I needed.",
+        "rating": 5,
+        "date": "2026-09-06T10:00:00Z"
+      },
+      {
+        "text": "The seller replied quickly when I asked about delivery.",
+        "rating": 4,
+        "date": "2026-08-26T10:00:00Z"
+      },
+      {
+        "text": "The purchase was fine, but the listing could have had clearer photos.",
+        "rating": 3,
+        "date": "2026-08-15T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1046.html"
+  },
+  {
+    "id": 1047,
+    "title": "HESHE Leather Shoulder Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory. Outlet stock with possible signs of handling.",
+    "category": "Fashion",
+    "price": 68.89,
+    "rating": 2.25,
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "The lining was frayed around an inside pocket.",
+        "date": "2026-09-27T10:00:00Z",
+        "reviewerName": "Sam Koh"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition was worse than I expected from the listing.",
+        "date": "2026-09-16T10:00:00Z",
+        "reviewerName": "Avery Lim"
+      },
+      {
+        "rating": 3,
+        "comment": "Usable at this price, but I wouldn't buy it as a gift.",
+        "date": "2026-09-05T10:00:00Z",
+        "reviewerName": "Casey Wong"
+      },
+      {
+        "rating": 2,
+        "comment": "It arrived without enough padding and the seller was slow to respond.",
+        "date": "2026-08-25T10:00:00Z",
+        "reviewerName": "Taylor Ho"
+      }
+    ],
+    "image": "assets/173.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "weekday-outlet",
+    "seller_name": "Weekday Outlet",
+    "selling_since": "2023-01-25",
+    "review_count": 4,
+    "review": [
+      {
+        "text": "The lining was frayed around an inside pocket.",
+        "rating": 2,
+        "date": "2026-09-27T10:00:00Z"
+      },
+      {
+        "text": "The condition was worse than I expected from the listing.",
+        "rating": 2,
+        "date": "2026-09-16T10:00:00Z"
+      },
+      {
+        "text": "Usable at this price, but I wouldn't buy it as a gift.",
+        "rating": 3,
+        "date": "2026-09-05T10:00:00Z"
+      },
+      {
+        "text": "It arrived without enough padding and the seller was slow to respond.",
+        "rating": 2,
+        "date": "2026-08-25T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1047.html"
+  },
+  {
+    "id": 1048,
+    "title": "HESHE Leather Shoulder Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory. Clearance stock with visible wear or damaged packaging.",
+    "category": "Fashion",
+    "price": 52.0,
+    "rating": 1.33,
+    "reviews": [
+      {
+        "rating": 1,
+        "comment": "The shoulder strap stitching pulled apart on the first outing.",
+        "date": "2026-09-26T10:00:00Z",
+        "reviewerName": "Morgan Lee"
+      },
+      {
+        "rating": 1,
+        "comment": "It arrived damaged and I had to send it back.",
+        "date": "2026-09-15T10:00:00Z",
+        "reviewerName": "Jamie Ng"
+      },
+      {
+        "rating": 2,
+        "comment": "The condition wasn't clear from the photos.",
+        "date": "2026-09-04T10:00:00Z",
+        "reviewerName": "Robin Goh"
+      }
+    ],
+    "image": "assets/173.svg",
+    "source_platform": "Tao Market",
+    "currency": "USD",
+    "seller_id": "open-box-corner",
+    "seller_name": "Open Box Corner",
+    "selling_since": "2024-03-18",
+    "review_count": 3,
+    "review": [
+      {
+        "text": "The shoulder strap stitching pulled apart on the first outing.",
+        "rating": 1,
+        "date": "2026-09-26T10:00:00Z"
+      },
+      {
+        "text": "It arrived damaged and I had to send it back.",
+        "rating": 1,
+        "date": "2026-09-15T10:00:00Z"
+      },
+      {
+        "text": "The condition wasn't clear from the photos.",
+        "rating": 2,
+        "date": "2026-09-04T10:00:00Z"
+      }
+    ],
+    "product_url": "https://paegnium.github.io/dummysite2/products/1048.html"
   }
 ]

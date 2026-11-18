@@ -67,7 +67,8 @@ def build():
     for product in products:
         (output / f"{product['id']}.html").write_text(product_page(product))
     links = "".join(
-        f'<li><a href="{product["id"]}.html">{escape(product["title"])}</a></li>'
+        f'<li><a href="{product["id"]}.html">{escape(product["title"])}</a>'
+        f' · {escape(product["seller_name"])} · {escape(product["currency"])} {product["price"]:.2f}</li>'
         for product in products
     )
     (output / "index.html").write_text(
